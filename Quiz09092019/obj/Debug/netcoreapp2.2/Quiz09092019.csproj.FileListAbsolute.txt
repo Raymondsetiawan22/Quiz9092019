@@ -1,0 +1,4 @@
+D:\Quiz09092019\obj\Debug\netcoreapp2.2\Quiz09092019.csprojAssemblyReference.cache
+D:\Quiz09092019\obj\Debug\netcoreapp2.2\Quiz09092019.csproj.CoreCompileInputs.cache
+D:\Quiz09092019\obj\Debug\netcoreapp2.2\Quiz09092019.AssemblyInfoInputs.cache
+D:\Quiz09092019\obj\Debug\netcoreapp2.2\Quiz09092019.AssemblyInfo.cs
